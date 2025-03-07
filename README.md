@@ -13,5 +13,5 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 
 desde la rama QA
 
-=======
+
 desde la rama develop
